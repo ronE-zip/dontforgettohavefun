@@ -1,6 +1,6 @@
 # dontforgettohavefun
 
-*debug* want to make the animation shuffle through the different variants of the phrase "dont forget to have fun" *debug*
+*debug* - want to make the animation shuffle through the different variants of the phrase "dont forget to have fun"
 
 next steps-
 
